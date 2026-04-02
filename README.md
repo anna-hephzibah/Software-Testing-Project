@@ -1,5 +1,5 @@
 # Software-Testing-Project-Demoblaze
-This repository contains documents and artifacts to the software testing project performed on the demo website: https://www.demoblaze.com
+This repository contains documents and artifacts to the software testing project performed on the demoblaze website: https://www.demoblaze.com
 # Repository Content
 •	Test Plan.pdf
 
